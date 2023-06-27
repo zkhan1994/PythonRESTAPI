@@ -12,8 +12,9 @@ def guessLetter():
         else:
             print("Incorrect or already guessed letter.")
 
-        print(f"Current guessed letters: {guessedLetters}")
+        print(f"Correctly guessed letters: {guessedLetters}")
 
     print("Congrats! You won.")
+
 
 guessLetter()
