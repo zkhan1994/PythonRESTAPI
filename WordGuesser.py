@@ -16,5 +16,4 @@ def guessLetter():
 
     print("Congrats! You won.")
 
-
 guessLetter()
