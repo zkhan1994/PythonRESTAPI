@@ -1,2 +1,2 @@
 # PythonRESTAPI
-Basic Python to extract current weather data for a particular zip code and display to user in the console using OpenWeatherMap REST API. 
+Basic Python to request weather data in JSON format for a particular zip code and display to user using OpenWeatherMap REST API. 
